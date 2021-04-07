@@ -25,7 +25,7 @@ let idList=[];
         id:2,
         name:"second shoe yhea  ",
         image:"https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
-        description:"Nike: always  on top  ofthe  game ",
+        description:"Nike: always  on top  of the  game ",
         color:'color:black; background-color:rgba(0, 255, 0, 0.8);',
         Testcolor:{Text:'black',bgColor:{r:0,g:255,b:0}},
         brainTextColor:{black: 1}
@@ -35,7 +35,7 @@ let idList=[];
         id:3,
         name:"Third shoe yhea  ",
         image:"https://images.unsplash.com/photo-1607522370275-f14206abe5d3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1008&q=80",
-        description:"converse",
+        description:"converse Shoes Always good ",
         color:'color:white; background-color:rgba(0, 0, 255, 0.8);',
         Testcolor:{Text:'white',bgColor:{r:0,g:0,b:255}},
         brainTextColor:{white: 1}
